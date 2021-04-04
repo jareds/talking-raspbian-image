@@ -37,7 +37,6 @@
       "type": "shell",
       "inline": [
         "sudo apt update",
-        "sudo apt upgrade -y",
         "sudo apt install xserver-xorg-video-dummy -y"
       ]
     },
